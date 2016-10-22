@@ -1,5 +1,5 @@
 {
     "jvm":{
-        "heapsize":128
+        "heapsize":256
     }
 }
